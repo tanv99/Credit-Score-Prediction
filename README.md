@@ -163,7 +163,3 @@ MIT License - See LICENSE file for details
 **Tanvi Inchanalkar**  
 Data Science and Machine Learning Project  
 2024
-
----
-
-*This project demonstrates a comprehensive approach to credit scoring using modern machine learning techniques, emphasizing both predictive performance and model interpretability for practical business applications.*
